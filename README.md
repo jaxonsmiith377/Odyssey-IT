@@ -1,2 +1,1 @@
-# Odyssey-IT
-Portfolio
+this task assignment introduced me to GitHub Codespaces and learn much things on github such as: , Git, and HTML. I learned how to create a repository, build a simple portfolio website, and use Git commands such as git status, git add, git commit, and git push. One challenge I faced was understanding how Git tracks changes and remembering the correct command syntax. GitHub Copilot helped by suggesting HTML code and making it easier to structure my portfolio. Overall, this project improved my confidence in using modern development tools and taught me the importance of version control when building software.
